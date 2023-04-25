@@ -1,0 +1,10 @@
+Canse : Salut
+IP : Socket[addr=/127.0.0.1,port=58082,localport=9800]
+juju : sdfsdf
+IP : Socket[addr=/127.0.0.1,port=51269,localport=9800]
+IP : Socket[addr=/127.0.0.1,port=51342,localport=9800]
+canse : g('g
+IP : Socket[addr=/127.0.0.1,port=51349,localport=9800]
+juju : salute
+canse : ouais
+IP : Socket[addr=/127.0.0.1,port=51463,localport=9800]
